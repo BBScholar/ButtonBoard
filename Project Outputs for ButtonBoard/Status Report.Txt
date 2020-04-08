@@ -1,0 +1,21 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ButtonBoard.PrjPcb]
+   Generated File[Board.GTO]
+   Generated File[Board.GTS]
+   Generated File[Board.GTL]
+   Generated File[Board.GBL]
+   Generated File[Board.GBS]
+   Generated File[Board.GBO]
+   Generated File[Board.GM1]
+   Generated File[Board.GM13]
+   Generated File[Board.GKO]
+   Generated File[Board.RUL]
+   Generated File[Board.EXTREP]
+   Generated File[Board.REP]
+
+
+Files Generated   : 12
+Documents Printed : 0
+
+Finished Output Generation At 3:22:23 PM On 4/8/2020
