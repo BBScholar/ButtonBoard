@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: Board.GBR   4/8/2020  3:22:22 PM
+Gerber File Extension Report For: Board.GBR   4/8/2020  3:35:37 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -15,4 +15,6 @@ Layer Extension     Layer Description
 .GM1                Mechanical 1                            
 .GM13               Mechanical 13                           
 .GKO                Keep-Out Layer                          
+.GD1                Drill Drawing                           
+.GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------

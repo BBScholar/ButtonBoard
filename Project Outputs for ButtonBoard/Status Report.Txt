@@ -1,21 +1,12 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of Project [ButtonBoard.PrjPcb]
-   Generated File[Board.GTO]
-   Generated File[Board.GTS]
-   Generated File[Board.GTL]
-   Generated File[Board.GBL]
-   Generated File[Board.GBS]
-   Generated File[Board.GBO]
-   Generated File[Board.GM1]
-   Generated File[Board.GM13]
-   Generated File[Board.GKO]
-   Generated File[Board.RUL]
-   Generated File[Board.EXTREP]
-   Generated File[Board.REP]
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ButtonBoard.PrjPcb]
+   Generated File[Board.TXT]
+   Generated File[Board.LDP]
+   Generated File[Board.DRR]
 
 
-Files Generated   : 12
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 3:22:23 PM On 4/8/2020
+Finished Output Generation At 3:37:59 PM On 4/8/2020
